@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Eric90johnson
-- 👀 I’m interested in ...  Python
+- 👀 I’m interested in ...  FrontEnd
 - 🌱 I’m currently learning ... Linguagem e  lógica de  programação e Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
